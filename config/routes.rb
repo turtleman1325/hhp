@@ -9,6 +9,7 @@ Rails.application.routes.draw do
   get 'spanish_static_pages/libreria'
 
   root 'static_pages#home'
+  get 'static_pages/home'
   get 'static_pages/about_us'
   get 'static_pages/annual_report'
   get 'static_pages/book_store'

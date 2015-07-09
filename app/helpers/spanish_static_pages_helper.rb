@@ -1,0 +1,2 @@
+module SpanishStaticPagesHelper
+end

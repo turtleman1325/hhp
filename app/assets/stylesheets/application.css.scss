@@ -14,3 +14,18 @@
  // "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
  @import "bootstrap-sprockets";
  @import "bootstrap";
+
+ .jumbotron {
+     background-image: url(https://lh3.googleusercontent.com/GTrfU5GHYt3NUtmOZaJpN47LW-tJ1kwH26ZqfYwLFAU=w849-h313-no), url(http://www.myfreetextures.com/wp-content/uploads/2011/06/another-rough-old-and-worn-parchment-paper.jpg);
+     background-position: center, center;
+     background-repeat: no-repeat;
+     color: white;
+     height: 300px;
+     margin-bottom: 0px;
+ }
+ .navbar-default{
+   margin-top: 0px;
+   margin-bottom: 0px;
+   padding-bottom: 0px;
+   border-bottom: 0px;
+ }

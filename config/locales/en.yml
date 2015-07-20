@@ -1,24 +1,3 @@
-# Files in the config/locales directory are used for internationalization
-# and are automatically loaded by Rails. If you want to use locales other
-# than English, add the necessary files in this directory.
-#
-# To use the locales, use `I18n.t`:
-#
-#     I18n.t 'hello'
-#
-# In views, this is aliased to just `t`:
-#
-#     <%= t('hello') %>
-#
-# To use a different locale, set it with `I18n.locale`:
-#
-#     I18n.locale = :es
-#
-# This would use the information in config/locales/es.yml.
-#
-# To learn more, please read the Rails Internationalization guide
-# available at http://guides.rubyonrails.org/i18n.html.
-
 en:
   hello_world: "Hello world"
 
@@ -30,3 +9,28 @@ en:
   annual_report: Annual Report
   book_store: Book Store
   contact_us: Contact Us
+
+  # home page
+  homep1: The work Poblar la frontera. The province of Santa Barbara in Nueva Vizcaya during the sixteenth and seventeenth centuries summarizes years work and research; Its antecedent is the doctoral thesis presented bythe author in 1997 at the Ecole des Hautes Etudes in Paris.
+
+  homep2: The work is an exhaustive research in primary sources including the local files of Chihuahua and Jalisco, the Archivo General de la Nación in Mexico City, and the Archivo General de Indias.  It is a study where urbanization, among others, are at the center of attention.  In addition, among the methods used for the investigation, the author highlights the prosopography of the peoples of Santa Barbara. Taken from the review by Zulema Trejo and José Marcos Medina
+
+  homep3: To purchase this book first email us at mymejico@gmail.com to confirm availability.  Once confirmed complete the purchase through PayPal. Price $48.00 which includes shipping within the continental United States.
+  # end home page
+
+  # about us page
+  aboutp1: The Hispanic Heritage Project began in 1992 as part of the Pioneer Room Friends of the Escondido Public Library to raise funds for purchasing additional books on the Spanish Colonial Period that is currently housed in the Pioneer Room. We organized high school and adult Hispanic community members in several fund raising projects. One of our projects was selling tacos at Escondido's First Night, the city's New Year celebration. In addition we picked and sold oranges in front of the public library donated from the grove owned by an Hispanic community member. Later,the city of Escondido noticing our activities offered us an orange and avocado grove to manage as a fund raiser.
+
+  aboutp2: It was during this time that we became aware that an indexing project of the Hidalgo de Parral municipal archive had stopped because of lack of funds. We were able with the proceeds from our avocado and orange grove to provide them funds to complete the guide to the archive. In the process we became aware of other needs in the archive and continued for several years to provide donated equipment and funds for research assistants working in the archive.
+
+  aboutp3: As we worked on our projects other needs came to our attention. The parish of San Bartolome in Valle de Allende did not have a copy machine making it difficult for researchers to obtain copies of documents. We donated a copy machine to the parish. The archive in the Parral Diocese was vandalized and we provided the manpower to put the archive back into order. We have provided donated equipment to the diocese in Durango and the Institute of Historical Investigations at the University of Juarez in Durango. We also provided a donation for the publication of the guide to the collection at the Historical Archive of Colima.
+
+  aboutp4: We continue to serve as our resources allow us and presently we have received several requests to digitize other historical archives in Mexico.
+  # end about page
+
+  # donations page
+  donationsp1: We invite you to join us and the current donors in making these projects a reality. All donations are tax deductible under section 170 of the Internal Revenue Code as we are a 501(c)(3) public charity. Please mail your donations to Hispanic Heritage Project, 3611 Foxley Drive, Escondido, CA, US, 92027 or donate through Paypal.
+
+  donationsp2: "Current donors to whom we are most appreciative:"
+
+  # end donations page

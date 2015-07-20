@@ -20,4 +20,13 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  hello_world: "Hello world"
+
+# navbar translations
+  about_us: About Us
+  donate: Donations
+  projects: Projects
+  collections: Collections
+  annual_report: Annual Report
+  book_store: Book Store
+  contact_us: Contact Us

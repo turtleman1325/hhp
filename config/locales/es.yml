@@ -2,6 +2,7 @@ es:
   hello_world: Hola Mundo
 
 # navbar translations
+  home: Inicio
   about_us: Quiénes Somos
   donate: Donaciones
   projects: Proyectos
@@ -32,5 +33,37 @@ es:
   donationsp1: Les invitamos a unirse a nosotros y los donadores actuales que hacen estos proyectos una realidad. Todas las donaciones son libres de impuestos en base a la sección 170 del Internal Revenue Code ya que somos una 501(c)(3) asociación pública. Por favor envie sus donaciones a Hispanic Heritage Project, 3611 Foxley Drive, Escondido, CA, US, 92027
 
   donationsp2: "Actuales donadores con los que estamos agradecidos:"
-
   # end donations page
+
+  # projects page
+  projectsp1: A finales de Octubre pasado recibimos una petición para digitalizar el archivo municipal de Parral, el cual es el archivo más grande en el norte de México. A raíz de esto tres Parroquias locales, San Bartolomé, Villa Coronado y Santa Bárbara también pidieron asistencia para digitalizar sus archivos eclesiásticos. La Parroquia de San Bartolomé tiene un documento escrito en 1575. Tiempo después, reconocimos la necesidad de ayudar a tres archivos municipales en el estado de Guanajuato. Previamente Documentary Relations of the Southwest (DRSW) del Museo Estatal de Arizona en la Universidad de Arizona, pidieron nuestro apoyo en la obtención de permisos para digitalizar una porción del Archivo Estatal de Sonora en Hermosillo, México.
+
+  projectsp2: Aceptamos y contactamos la fundación mexicana, Apoyo al Desarrollo de Archivos y Bibliotecas de Mexico, A.C. (ADABI) para unirse a nuestro proyecto. Ellos aceptaron y asumirán la responsabilidad de organizar los materiales previo a la digitalización de los mismos. Este archivo contiene información importante relacionada a la historia de los nativos Americanos del suroeste de los Estados Unidos. Es difícil para los estudiantes de la universidad tener acceso a estos archivos. Nuestros esfuerzos en nuestro nuevo acuerdo debera abrir las puertas para esos estudiantes para todos sus actividades de investigacion en el futuro. De ser digitalizadas los archivos de estos proyectos se haran disponibles por medio del internet sin costo, para todos los que deseen conocimiento de esta historia de América en la época Colonial Española.
+  # end projects page
+
+  # collections page
+  l1: Archivo Histórico Municipal
+
+  l2: Fondo Colonial
+
+  l3: Archivos de la Parroquia de San José
+
+  l4: Parroquia de San Bartolomé
+
+  l5: Archivo de la Parroquia de San Francisco Javier
+  # end collections page
+
+  # book store page
+  book_storep1: Bienvenidos a nuestra librería. Gracias por las donaciones de nuestros numerosos colaboradores, tenemos disponibles libros en español e inglés sobre una variedad de temas. Cuando compra un libro, los ingresos se aplican a nuestro fondo general que apoya nuestros gastos operativos y el sitio web. El resto de los fondos están aprobados al proyecto actual que todavía no se financia totalmente.
+
+  book_storel1: Librería
+  # end book store page
+
+  # contact us page
+  p1: Correo Electrónico
+  # end contact us page
+
+  # navbar language link
+  navl1: English
+  navl2: '/?locale=en'
+  # end navbar language link

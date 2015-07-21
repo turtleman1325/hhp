@@ -4,46 +4,25 @@
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href='/static_pages/home'>Hispanic Heritage Project</a>
-      </div>
+
 
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
+          <li><%= link_to t(:home), static_pages_home_path %></li>
           <li><%= link_to t(:about_us), static_pages_about_us_path %></li>
           <li><%= link_to t(:donate), static_pages_donate_path %></a></li>
           <li><%= link_to t(:projects), static_pages_projects_path %></a></li>
-          <li><a href='/static_pages/collections'><%=t :collections %></a></li>
-          <li><a href='/static_pages/annual_report'><%=t :annual_report %></a></li>
-          <li><a href='/static_pages/book_store'><%=t :book_store %></a></li>
-          <li><a href='/static_pages/contact_us'><%=t :contact_us %></a></a></li>
+          <li><%= link_to t(:collections), static_pages_collections_path %></a></li>
+          <li><%= link_to t(:annual_report), static_pages_annual_report_path %></a></li>
+          <li><%= link_to t(:book_store), static_pages_book_store_path %></a></li>
+          <li><%= link_to t(:contact_us), static_pages_contact_us_path %></a></a></li>
 
         </ul>
 
         <ul class="nav navbar-nav navbar-right">
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Español <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-              <li class="active"><a href='/spanish_static_pages/inicio'>Inicio <span class="sr-only">(current)</span></a></li>
-              <li><a href='/spanish_static_pages/contactanos'>Contáctanos</a></li>
-              <li><a href='/spanish_static_pages/proyectos'>Proyectos</a></li>
-              <li><a href='/spanish_static_pages/reporte_anual'>Reporte Anual</a></li>
-              <li><a href='/spanish_static_pages/collecciones'>Colecciones</a></li>
-
-
-              <li role="separator" class="divider"></li>
-              <li><a href='/spanish_static_pages/donaciones'>Donaciones</a></li>
-              <li><a href='/spanish_static_pages/libreria'>Librería</a></li>
-              <li><a href='/spanish_static_pages/quienes_somos'>Quiénes Somos</a></li>
-
-            </ul>
+          <li><%= link_to t(:navl1), t(:navl2) %></li>
+        </ul>
           </li>
         </ul>
       </div><!-- /.navbar-collapse -->

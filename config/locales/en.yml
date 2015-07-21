@@ -2,6 +2,7 @@ en:
   hello_world: "Hello world"
 
 # navbar translations
+  home: Home
   about_us: About Us
   donate: Donations
   projects: Projects
@@ -32,5 +33,37 @@ en:
   donationsp1: We invite you to join us and the current donors in making these projects a reality. All donations are tax deductible under section 170 of the Internal Revenue Code as we are a 501(c)(3) public charity. Please mail your donations to Hispanic Heritage Project, 3611 Foxley Drive, Escondido, CA, US, 92027 or donate through Paypal.
 
   donationsp2: "Current donors to whom we are most appreciative:"
-
   # end donations page
+
+  # projects page
+  projectsp1: At the end of last October 2008 we received a request from the Parral Municipal archive (the largest colonial archive in Northern Mexico) to preserve their collection in a digital format. Then three local parishes, San Bartolome, Villa Coronado and Santa Barbara also requested assistance in digitizing their ecclesiastical archives. The San Bartolome parish has a document written in 1575. Later we became aware of the need to assist three small municipal archives in the state of Guanajuato. Previously the Documentary Relations of the Southwest (DRSW) of the Arizona State Museum at the University of Arizona had requested our assistance in obtaining permission to digitize a portion of the Sonora State Archive in Hermosillo, Mexico.
+
+  projectsp2: We accepted the call to help. Our next move was to approach the Mexican foundation, Apoyo al desarrollo de archivos y bibliotecas de Mexico, A.C. (ADABI) to join us in the project. They agreed and will assume the responsibility of organizing the materials prior to us digitizing the records. This archive has extensive important information relating to the native American history of the Southwestern United States. Up to the present time, it has been difficult for university student researchers to gain access to this archive. Our efforts in this new partnership should open the doors to those students for all future researching activities. Once digitized, the records of these projects will be made available through the internet at no cost to all who desire knowledge of this early Spanish Colonial American history.
+  # end projects page
+
+  # collections page
+  l1: Municipal Historic Archive
+
+  l2: Colonial Fund
+
+  l3: San Jose Parish Archive
+
+  l4: San Bartolomé Parish
+
+  l5: San Francisco Javier Parish Archive
+  # end collections page
+
+  # book store page
+  book_storep1: Welcome to our book store. Thanks to the donations of many supporters we have both Spanish and English titles of many subjects available to you. When you purchase a book the proceeds go to our general fund which supports our operating expenses and website. All remaining funds go to the current project which has not yet been completely funded.
+
+  book_storel1: Book Store
+  # end book store page
+
+  # contact us page
+  p1: Email
+  # end contact us page
+
+  # navbar language link
+  navl1: Español
+  navl2: '/?locale=es'
+  # end navbar language link
